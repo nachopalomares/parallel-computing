@@ -1,0 +1,17 @@
+.DS_Store
+._*
+
+# Compiled programs and objects
+*.o
+*.obj
+*.out
+*.exe
+/Practica 1/secuencial
+/Practica 1/paralelo
+/Practica 2 Parte 1/histograma
+/Practica 2 Parte 2/inferencia
+
+# Generated images and cluster logs
+/Practica 1/*_mandelbrot.jpg
+/Practica 1/salida_mandelbrot_*.txt
+/Practica 1/error_mandelbrot_*.txt
